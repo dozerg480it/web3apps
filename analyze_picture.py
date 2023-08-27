@@ -18,5 +18,5 @@ def extract_image_features(image_path):
         print(f"An error occurred: {e}")
 
 # Provide the path to the image you want to extract features from
-image_path = "picture.jpg"
+image_path = "captured_image.jpg"
 extract_image_features(image_path)
